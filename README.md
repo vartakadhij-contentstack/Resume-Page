@@ -8,4 +8,4 @@ It contains the following sections:
 3.Interest
 4.Hobbies
 
-You can download the odf of the Resume by clicking on the 'Download Here' cutton at the top.
+You can download the pdf of the Resume by clicking on the 'Download Here' cutton at the top.
